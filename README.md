@@ -2,7 +2,16 @@
       <img src="https://github.com/mateusloubach/tesla-clone/blob/main/public/images/logo-b.png" width="500" alt="Logo"/>
 </p>
 
-<h1 align="center">🔆 Clone App 🔆</h1>
+<h1 align="center"></h1>
+
+<div align="center">
+  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/mateusloubach/tesla-clone/main?style=flat-square)
+  ![GitHub top language](https://img.shields.io/github/languages/top/mateusloubach/tesla-clone?style=flat-square&logoColor=f5f5f5&color=%23e4e3e3)
+  ![GitHub language count](https://img.shields.io/github/languages/count/mateusloubach/tesla-clone?style=flat-square&color=%23e4e3e3)
+  ![GitHub Code Size](https://img.shields.io/github/languages/code-size/mateusloubach/tesla-clone?style=flat-square&color=%23e4e3e3)
+
+</div>
 
 <div>
   <div>  
@@ -13,7 +22,6 @@
 
 
 # ✨ Features
-
 - Implementation of the latest technlogies, such as  [`React.Js v18`](https://reactjs.org/), [`Next.Js v13`](https://nextjs.org/),
 - Interactive 3D Configurator. Built with [`React Three Fiber`](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) & [`Three.Js`](https://threejs.org/) Library.
 - All pages and animations are from the original Tesla Website
@@ -21,7 +29,6 @@
 - Responsive design for optimal user experience
 
 # ⚡ Spin Up
-
 - Clone Repo :
 
 ```bash
