@@ -46,8 +46,3 @@ Open browser and navigate to ``` http://localhost:3000 ```. The App will automat
 <h3 align="right">Thanks :heart:
     
 Made by [Mateus Loubach](https://github.com/mateusloubach)
-
-# 🤝 License
-
-### [MIT](LICENSE)
-
