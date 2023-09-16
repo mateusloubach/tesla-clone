@@ -1,20 +1,10 @@
-# Tesla Clone App avec Next.js 13 et React Three Fiber
-
-Bienvenue sur le dépôt de [Tesla Clone](https://clone-tesla-delta.vercel.app/),
-une réplique du site officiel de Tesla, développée avec **Next.js 13** et
-**React Three Fiber** pour une expérience de
-[configurateur 3D unique](https://clone-tesla-delta.vercel.app/configurateur).
-Cette application inclut toutes les fonctionnalités, animations et pages du site
-original, en y ajoutant une touche personnelle grâce à l'intégration de Three.js
-et React Three Fiber.
+# Tesla Clone App
 
 <div>
-  <img src="./public/images/thumb-tesla-project.jpg" alt="Capture d'écran de l'application Tesla Clone" width="100%" />
   <div>  <img src="./public/images/configurateur.jpg" alt="Capture d'écran de l'application Tesla Clone" width="48%" />  <img src="./public/images/configurateur/scheenshot-app-tesla.png" alt="Capture d'écran de l'application Tesla Clone" width="50%" /></div>
-
 </div>
 
-## 🚀 Fonctionnalités
+## 🚀 Features
 
 - Clone fidèle du site officiel de Tesla
 - Mise en œuvre des dernières technologies : Next.js 13 et React 18
