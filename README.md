@@ -7,6 +7,7 @@
 <div align="center">
   
   ![GitHub last commit](https://img.shields.io/github/last-commit/mateusloubach/tesla-clone/main?style=flat-square)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmateusloubach%2Fweb-tesla.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmateusloubach%2Fweb-tesla?ref=badge_shield)
   ![GitHub top language](https://img.shields.io/github/languages/top/mateusloubach/tesla-clone?style=flat-square&logoColor=f5f5f5&color=%23e4e3e3)
   ![GitHub language count](https://img.shields.io/github/languages/count/mateusloubach/tesla-clone?style=flat-square&color=%23e4e3e3)
   ![GitHub Code Size](https://img.shields.io/github/languages/code-size/mateusloubach/tesla-clone?style=flat-square&color=%23e4e3e3)
@@ -53,3 +54,7 @@ Open browser and navigate to ``` http://localhost:3000 ```. The App will automat
 <h3 align="right">Thanks :heart:
     
 Made by [Mateus Loubach](https://github.com/mateusloubach)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmateusloubach%2Fweb-tesla.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmateusloubach%2Fweb-tesla?ref=badge_large)
